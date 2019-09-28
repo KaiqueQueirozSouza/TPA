@@ -1,8 +1,8 @@
 /*
-Função: Calcular a area de um retangulo
+FunÃ§Ã£o: Calcular a area de um retangulo
 Autor: Kaique de Queiroz Souza
-Data de criação:27/092019
-Data de alteração:28/092019
+Data de criaÃ§Ã£o:27/09/2019
+Data de alteraÃ§Ã£o:28/09/2019
 */
 
 #include <stdio.h>
@@ -21,6 +21,6 @@ int main(){
 	scanf("%1", &altura);
 	
 	area = base * altura;
-	printf("A area desse retangulo será: %1 \n", area);
+	printf("A area desse retangulo serÃ¡: %1 \n", area);
 	system("pause")
 }
