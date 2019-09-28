@@ -1,8 +1,8 @@
 /*
-Função: Ler um numero, verificar se é maior que 100. Se for, somar 150
+FunÃ§Ã£o: Ler um numero, verificar se Ã© maior que 100. Se for, somar 150
 Autor: Kaique de Queiroz Souza
-Data de criação:28/092019
-Data de alteração:28/092019
+Data de criaÃ§Ã£o:28/09/2019
+Data de alteraÃ§Ã£o:28/09/2019
 */
 
 #include <stdio.h>
